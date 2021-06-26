@@ -143,4 +143,4 @@ cython_debug/
 *.csv
 *.zip
 *.joblib
-*.png
+mask_image.png
